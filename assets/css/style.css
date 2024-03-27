@@ -264,10 +264,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 }
 .single-about-add-info h3 {
     color: #636a82;
-    font-size: 16px;
+    font-size: 14px;
     text-transform: capitalize;
 }
-.single-about-add-info p {font-weight:  300;border:  0;padding: 0;margin-top: 3px;}
+.single-about-add-info p {font-weight:  300;font-size: 13px;border:  0;padding: 0;margin-top: 3px;}
 /*.single-about-txt*/
 
 /*.single-about-img */
